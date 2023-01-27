@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.PageTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-27T14:06:01" hostname="DESKTOP-3JD58LQ" time="14.725">
+  <properties/>
+  <testcase name="loginWebPageWorks()" classname="com.project.PageTestSuite" time="4.215"/>
+  <testcase name="titleFunctionality()" classname="com.project.PageTestSuite" time="6.792"/>
+  <testcase name="registerWebPageWorks()" classname="com.project.PageTestSuite" time="3.712"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 65122
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1674828363.876][WARNING]: This version of ChromeDriver has not been tested with Chrome version 109.
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 59537
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1674828367.118][WARNING]: This version of ChromeDriver has not been tested with Chrome version 109.
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 50040
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1674828373.975][WARNING]: This version of ChromeDriver has not been tested with Chrome version 109.
+]]></system-err>
+</testsuite>
